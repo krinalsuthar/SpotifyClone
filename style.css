@@ -400,6 +400,9 @@ h2 {
     width: 120px;
     margin-right: 10px;
   }
+  #landr {
+    padding-left: 0px;
+  }
   #user {
     display: none;
   }
@@ -417,7 +420,7 @@ h2 {
     margin: auto;
   }
   .range {
-    width: 250px;
+    width: 190px;
   }
   .range1 {
     margin-bottom: 50px;
